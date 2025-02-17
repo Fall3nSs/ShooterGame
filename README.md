@@ -1,4 +1,5 @@
-# A Basic Shooter Game which made with SFML
+# A Basic Shooter Game which made with SFML 3.0
+This is my first game project which I made with the SFML library.
 # Controls:
 W:UP
 
